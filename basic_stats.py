@@ -1,7 +1,10 @@
 # Author: Kristin Towns 
 # GitHub username: kristinlashun
 # Date: 1/10/2024
-# Description: 
+"""""
+Description: This module contains the Student class for storing student names and grades, and a function basic_stats
+that computes the mean, median, and mode of grades from a list of Student objects, using Python's statistics module.
+"""
 import statistics
 
 class Student: 
